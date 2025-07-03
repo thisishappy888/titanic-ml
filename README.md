@@ -1,20 +1,20 @@
 ### **titanic-ml**
 
-Этот проект представляет собой решение задачи классификации: предсказать, выжил ли пассажир Титаника, основываясь на таких характеристиках, как пол, возраст, класс билета и другие.
+This project is a solution to a classification problem: to predict whether a Titanic passenger survived based on characteristics such as gender, age, ticket class, and others.
 
-#### 🚀 Используемые технологии
+#### 🚀 technologies used
 
 - **Python**
 - **Libraries**
   - **scikit-learn**
   - **pandas**
 
-#### 🧠 Цель
+#### 🧠 Goal
 
-Научиться применять алгоритмы ML на практической задаче, включая:
-- Предобработку данных
-- Инжиниринг признаков
-- Обучение и оценку моделей
+Learn to apply Ml algorithms to a practical problem, including:
+- Data preprocessing
+- Feature engineering
+- Model training and evaluation
 
 #### 🏆 Results
 
